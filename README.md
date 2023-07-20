@@ -6,5 +6,5 @@ To run this:
 - `pip3 install -r Main_Requirements.txt`
 - Scan nearby networks using `wlan0mon` interface:
     ```
-    python Wifi_scanning.py wlan0mon
+    python Wifi_Scanning.py wlan0mon
     ```
